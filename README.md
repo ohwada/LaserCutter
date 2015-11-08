@@ -7,4 +7,7 @@ Data for Laser Cutter
 Landscape of Yokohama Minatomirai <br>
 <img src="https://raw.githubusercontent.com/ohwada/LaserCutter/master/yokohama/yokohama.png" width="400" />
 
-original - [Skyscraper in Yokohama](http://kage-design.com/wp/?p=1030)
+### Animals
+Camel, Elephant, Lion, Rabbit, Squirrel, Giraffe <br>
+<img src="https://raw.githubusercontent.com/ohwada/LaserCutter/master/animals/elephant.png" width="200" />
+
