@@ -11,3 +11,6 @@ Landscape of Yokohama Minatomirai <br>
 Camel, Elephant, Lion, Rabbit, Squirrel, Giraffe <br>
 <img src="https://raw.githubusercontent.com/ohwada/LaserCutter/master/animals/elephant.png" width="200" />
 
+### Raspberry Pi Case
+Raspberry Pi 2B <br>
+<img src="https://raw.githubusercontent.com/ohwada/LaserCutter/master/raspberry_pi/raspberry_pi_2b_case.png" width="200" />
