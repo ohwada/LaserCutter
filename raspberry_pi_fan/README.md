@@ -12,6 +12,6 @@ Parts <br>
 - 3mm Acryl <br>
 - 4 x M2.5 10mm Screws & Nuts <br>
 - 4 x M2.5 18mm Screws & Nuts <br>
-- [5V DC Fan[(http://akizukidenshi.com/catalog/g/gP-02480/) <br>
+- 5V DC Fan http://akizukidenshi.com/catalog/g/gP-02480/ <br>
 
 Based on https://github.com/diy-electronics/raspberrypi-b-plus-case
