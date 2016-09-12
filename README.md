@@ -16,6 +16,7 @@ https://github.com/ohwada/LaserCutter/tree/master/animals <br>
 ### Raspberry Pi Case 1
 Raspberry Pi 2B<br>
 https://github.com/ohwada/LaserCutter/tree/master/raspberry_pi_1 <br>
+<img src="https://raw.githubusercontent.com/ohwada/LaserCutter/master/raspberry_pi_1/raspberry_pi_2b_case_1.png" width="200" />
 
 ### Raspberry Pi Case 2
 Raspberry Pi 2B with Screw holes<br>
